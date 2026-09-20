@@ -127,3 +127,6 @@ StudyAI provides a modern dashboard-style interface with:
                   │ Student Studies /   │
                   │ Practices / Revises │
                   └─────────────────────┘
+
+
+
